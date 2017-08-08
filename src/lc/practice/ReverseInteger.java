@@ -4,7 +4,7 @@ public class ReverseInteger {
 
 		public static void main(String[] args){
 			ReverseInteger revInt = new ReverseInteger();
-			revInt.reverse(-12300);
+			revInt.reverse(-123001);
 		}
 		public int reverse(int x){
 			int remaining_num = x;
